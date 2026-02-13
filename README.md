@@ -22,7 +22,7 @@ A console-based application designed to manage academic records.
 * **Tech Stack:** C++ Control Flow (`while`, `for`), Conditional Logic ladders.
 
 
-### 3. Learning Management System (LMS)
+### 3. Learning Management System (LMS)(./Assignment_3)
 **Focus:** Menu-Driven Interface & User Authentication
 
 A command-line Learning Management System that provides an educational platform for exploring C++ programming topics.
