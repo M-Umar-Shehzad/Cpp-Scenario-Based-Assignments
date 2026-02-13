@@ -21,6 +21,16 @@ A console-based application designed to manage academic records.
 * **Key Features:** Dynamic record handling, rigorous input validation (0-100 range checks), and statistical aggregation (class averages, highest scores).
 * **Tech Stack:** C++ Control Flow (`while`, `for`), Conditional Logic ladders.
 
+
+### 3. Learning Management System (LMS)
+**Focus:** Menu-Driven Interface & User Authentication
+
+A command-line Learning Management System that provides an educational platform for exploring C++ programming topics.
+
+* **Key Features:** Login authentication system, interactive menu navigation, organized topic modules.
+* **Topics Covered:** Introduction, Conditional Statements, Loops, Jump Statements.
+* **Tech Stack:** Functions, Switch statements, While loops, Boolean variables, Input/Output operations.
+
 ---
 
 ## Future Scope
